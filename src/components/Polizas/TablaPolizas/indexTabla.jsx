@@ -31,7 +31,7 @@ export default function tablaPolizas() {
                     boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
                     backgroundColor: "#0000",
                     mt: 1.2,
-                    mb: 5
+                    mb: 53
                 }}
             >
                 <TableHead
